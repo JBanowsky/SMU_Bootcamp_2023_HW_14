@@ -2,6 +2,8 @@
 Module 14 Belly-Button-Challenge
 by John Banowsky
 
+https://jbanowsky.github.io/SMU_Bootcamp_2023_HW_14/Module_14/index.html
+
 This activity is the SMU Boot Camp Module 14 Challenge.
 All code was resourced from the SMU Boot Camp Class.
 
@@ -15,6 +17,7 @@ Background:
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare."
 
 I uploaded a dashboard static page to GitHub using Javascript and a JSON file. 
+https://jbanowsky.github.io/SMU_Bootcamp_2023_HW_14/Module_14/index.html
 
 ******
 I started by using the D3 Library to read the samples.json file. 
